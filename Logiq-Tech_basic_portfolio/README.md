@@ -1,0 +1,1 @@
+# Logiq-Tech Basic portfolio
