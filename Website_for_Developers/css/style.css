@@ -719,5 +719,9 @@ footer{
     .search{
 		display: block;
     }
+
+    .t-box-container{
+        display: block;
+    }
     
 }
